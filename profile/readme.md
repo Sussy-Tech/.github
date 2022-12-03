@@ -1,7 +1,7 @@
 <h1 align="center">This is, SussyTech</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gthss&label=Profile%20views&color=0e75b6&style=flat" alt="gthss" /> </p>
 
-<h3 align="left">Connect with us: discord.gg/3MyMWDyH</h3>
+<h3 align="left">Connect with us: <a href="discord.gg/3MyMWDyH" target="_blank">Discord</a></h3>
 <p align="left">
 </p>
 
