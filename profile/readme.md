@@ -1,9 +1,14 @@
 <h1 align="center">This is, SussyTech</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sussy-tech&label=Profile%20views&color=0e75b6&style=flat" alt="sussy-tech" /> </p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sussy-tech&label=Profile%20views&color=0e75b6&style=flat" alt="sussy-tech" />
+</p>
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
-<a href="https://discord.gg/https://discord.gg/3MyMWDyH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/3MyMWDyH" height="30" width="40" /></a>
+  <a href="https://discord.gg/https://discord.gg/3MyMWDyH" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/3MyMWDyH" height="30" width="40" />
+  </a>
 </p>
 
 
